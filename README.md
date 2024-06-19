@@ -21,3 +21,4 @@ Tools utilized in the project:
 ## ✒️ Author
 
 * **Orlando Neto** - [GitHub](https://github.com/orlandoneto)
+* **Caio Oliveira** - [GitHub](https://github.com/caiogasparino)
